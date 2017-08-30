@@ -64,7 +64,7 @@ class Good {
 				  
 			@Override
 		    public void exibirInfoPopular() {
-		        System.out.println("Modelo: Novo Uno\nFábrica: Ford\nCategoria:Popular");
+		        System.out.println("Modelo: Ka\nFábrica: Ford\nCategoria:Popular");
 			}
 	  }
 		    
